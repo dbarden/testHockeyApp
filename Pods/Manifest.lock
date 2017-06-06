@@ -1,0 +1,12 @@
+PODS:
+  - HockeySDK-Source (4.1.5)
+
+DEPENDENCIES:
+  - HockeySDK-Source (~> 4.1.5)
+
+SPEC CHECKSUMS:
+  HockeySDK-Source: ab4eef2ac5c07c45db5844ae724bf6f06199b214
+
+PODFILE CHECKSUM: e1a498e033301b14945f83cfd68bdb3bb1407b5a
+
+COCOAPODS: 1.2.1
